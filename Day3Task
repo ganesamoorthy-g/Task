@@ -1,0 +1,42 @@
+2.my resume,
+{
+  "basics": {
+    "name": "Ganesaoorthy",
+    "email": "gurunathganesh6@gmail.com",
+    "phone": "+91-9791397379",
+    "degree": "",
+    "website": "<script src="https://gist.github.com/ishu3101/36186df161316ec00519389b9deec690.js"></script>",
+    "location": {
+      "address": "No,229,perunmal kovil street,kumbakonam",
+      "postalCode": "612401",
+      "city": "kumbakonam",
+      "country": "india",
+      "region": "indian"
+    },
+    
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "ELCOT",
+      "position": "EER",
+      "website": "https//www.elcot.in",
+      "startDate": "2021-03-02",
+      "endDate": "till date",
+      "highlights": [
+        "EER & HR division "
+      ]
+    }
+  ],
+  
+  
+  3.what is different between windows ,screen and document
+    window: window is the main object in javascript.it is gowbel level access.
+    screen: The Window object also has a screen object with properties describing the physical display:
+             screen properties width and height are the full screen
+              screen properties availWidth and availHeight omit the toolbar
+     Document:    The document object represent a web page that is loaded in the browser. 
+                  By accessing the document object, we can access the element in the HTML page. 
+                  With the help of document objects, we can add dynamic content to our web page. 
+                  The document object can be accessed with a window.document or just document.     
