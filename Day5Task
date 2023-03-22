@@ -1,0 +1,41 @@
+1. Print odd numbers in an array
+((num)=>{
+    for (let i = 0; i < num.length; i++) {
+        if (num[i] % 2 !== 0) {
+          console.log(num[i]);
+        }
+      }
+
+    })
+    ([1,2,3,4,5]);
+    
+       // Convert all the strings to title caps in a string array
+// ((str)=>{
+//     for (let i = 0; i < str.length; i++){
+//         console.log(str[i]);
+//     }
+// })
+// (['ganesh','sudha','deeshna']);
+
+
+//Sum of all numbers in an array
+((num1)=>{
+    totalSum=0;
+    for(let i=0;i<num1.length;i++){
+        totalSum += num1[i];
+console.log(totalSum)}
+})
+([1,2,4,5]);
+
+((palindrom)=>{
+for (let i = 0; i < palindrom.length; i++) {
+    let word = palindrom[i];
+    let reversedWord = word.split("").reverse().join("");
+    if (word === reversedWord) {
+      console.log(word);
+    }
+  }
+})
+(["racecar", "level", "hello", "deified", "world", "madam"])
+
+
